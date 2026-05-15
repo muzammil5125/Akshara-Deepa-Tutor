@@ -1,0 +1,13 @@
+{
+  "name": "Akshara-Deepa Tutor",
+  "description": "An offline-first self-study companion for 10th-grade SSLC students to track progress and attempt quizzes.",
+  "requestFramePermissions": [
+    "notifications",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Offline Support",
+    "AI Study Assistant",
+    "Analytics Dashboard"
+  ]
+}
